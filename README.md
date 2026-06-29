@@ -1,6 +1,6 @@
 # Community Hero: The Hyperlocal Civic Nervous System
 
-🔗 **[Project Description (Google Doc)](https://docs.google.com/document/d/1vC3NUa82X0ANoY5IXli1PoDvB6l-ft0vVLd2l5Jwaow/edit?tab=t.0)**
+🔗 **[Deployed Live Application](https://community-hero-the-hyperlocal-civic.onrender.com/)** | 📝 **[Project Description (Google Doc)](https://docs.google.com/document/d/1vC3NUa82X0ANoY5IXli1PoDvB6l-ft0vVLd2l5Jwaow/edit?tab=t.0)**
 
 **Community Hero** is a next-generation, AI-driven civic coordination platform designed to address the real bottlenecks in municipal resource allocation and grievance resolution in Chennai. 
 

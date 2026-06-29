@@ -56,10 +56,3 @@ npm start
 ```
 Open **[http://localhost:8080](http://localhost:8080)** in your browser.
 
----
-
-## 🎤 The 3-Minute Live Stage Pitch Flow
-
-* **Act 1 (0:00 - 0:45) - GenAI AR Co-Design:** Ingest a report. Toggle **Generative HEAL (AR)** to showcase the side-by-side design restoration mockup. Run the Gemini scan.
-* **Act 2 (0:45 - 1:30) - Autopilot Edge Scan:** Toggle **Auto-Pilot** on to show the passive Edge-AI bus scanner daemon mapping OMR road failure grids dynamically.
-* **Act 3 (1:30 - 2:30) - Deadlock Solver & Shock Audits:** Select a border node. Highlight the RAG Deadlock Solver card splitting work between GCC and Highways. Mark resolved, link smartphone accelerometer sensors, and shake to close!

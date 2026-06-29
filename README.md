@@ -1,5 +1,7 @@
 # Community Hero: The Hyperlocal Civic Nervous System
 
+🔗 **[Project Description (Google Doc)](https://docs.google.com/document/d/1vC3NUa82X0ANoY5IXli1PoDvB6l-ft0vVLd2l5Jwaow/edit?tab=t.0)**
+
 **Community Hero** is a next-generation, AI-driven civic coordination platform designed to address the real bottlenecks in municipal resource allocation and grievance resolution in Chennai. 
 
 Instead of treating civic issues as a static list of tickets, the platform coordinates them as a **Bioluminescent Mycelium Network** mapped on Leaflet.js, dynamically aggregating reports, auto-generating engineering resource calculations, and using LLM-RAG border mapping to resolve administrative boundary deadlocks.

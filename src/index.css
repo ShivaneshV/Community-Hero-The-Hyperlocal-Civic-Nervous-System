@@ -854,7 +854,7 @@ body {
 /* ----------------------------------------------------
    MOBILE RESPONSIVENESS MEDIA QUERIES
    ---------------------------------------------------- */
-@media (max-width: 1024px) {
+@media (max-width: 1280px) {
   body {
     overflow-y: auto !important;
     overflow-x: hidden !important;

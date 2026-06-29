@@ -851,4 +851,54 @@ body {
   font-family: 'Fira Code', monospace;
 }
 
+/* ----------------------------------------------------
+   MOBILE RESPONSIVENESS MEDIA QUERIES
+   ---------------------------------------------------- */
+@media (max-width: 1024px) {
+  body {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+  }
+  .dashboard-container {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: 100vh !important;
+    width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+  .glass-panel {
+    height: auto !important;
+    width: 100vw !important;
+    border-right: none !important;
+    border-bottom: 1px solid rgba(0, 245, 212, 0.1) !important;
+  }
+  .right-panel {
+    border-left: none !important;
+    border-top: 1px solid rgba(0, 245, 212, 0.1) !important;
+  }
+  #map-container {
+    height: 50vh !important;
+    min-height: 350px !important;
+    width: 100vw !important;
+  }
+  .ar-split-pane {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .modal-card {
+    padding: 15px !important;
+  }
+  .panel-header {
+    padding: 15px !important;
+  }
+  .panel-content {
+    padding: 15px !important;
+  }
+}
+
+
 
